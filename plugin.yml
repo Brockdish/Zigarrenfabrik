@@ -1,0 +1,9 @@
+name: Zigarrenfabrik
+version: 1.0
+main: dev.jusoft.zigarrenfabrik.Main
+api-version: 1.13
+
+commands:
+  location:
+    description: §bSave locations without having to leave the game
+    usage: §cUse §6/locate <add|distance|overwrite|get|list|remove|rename|restore|setposition|undo> <name> <(name|coordinates)>
